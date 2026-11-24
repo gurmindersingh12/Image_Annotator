@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the version of Image Annotator used to annotate your images."
+title: "Image Annotator"
+authors:
+  - name: "Image Annotator contributors"
+version: "1.0.2"
+type: software
+license: MIT
+abstract: "A local crop image annotation application for drawing boxes and polygons, measuring their projected areas from an image scale, and linking green-area estimates and object counts to sample records."
+keywords:
+  - image annotation
+  - object counting
+  - crop phenotyping
+  - fieldbook
+  - research software
